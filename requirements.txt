@@ -1,0 +1,6 @@
+langchain langchain-openai
+langchain_core
+ddgs
+PyPDF2
+gradio
+python-dotenv
