@@ -1,4 +1,5 @@
-langchain langchain-openai
+langchain
+langchain-openai
 langchain_core
 ddgs
 PyPDF2
