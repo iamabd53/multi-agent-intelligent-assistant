@@ -219,4 +219,4 @@ interface = gr.Interface(
     description="Ask questions or upload files for analysis"
 )
 
-interface.launch(share=False, server_name="127.0.0.1")
+interface.launch(share=False, server_name="0.0.0.0")
