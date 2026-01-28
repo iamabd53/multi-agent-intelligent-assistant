@@ -1,1 +1,1 @@
-# mlops-demo
+# multi-agent-intelligent-assistant 
